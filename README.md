@@ -6,7 +6,7 @@ QuizLet is a browser-based quiz application that allows users to create, take, a
 
 This project was built using core web technologies and reflects foundational skills developed in early computer science courses. It runs entirely in the browser and offers a smooth, distraction-free experience without the need for a backend or database.
 
-Key Features:
+❓Key Features:
 
 Prompt-based user interaction in the browser
 
@@ -16,4 +16,7 @@ Supports multiple-choice or short-answer formats
 
 Real-time feedback and scoring logic
 
-Clean, lightweight,
+Clean, lightweight interface for easy use
+
+🎨Tech Stack:
+JavaScript, HTML, CSS, Browser Prompts, JSON (for question storage)
